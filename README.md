@@ -8,7 +8,7 @@
 - 💬 Ask me about *Java,Sql,HTML,CSS*
 
 - 📫 How to reach me *mohmmadhanees786@gmail.com*
-<img src="https://github.com/Amira-Zahran/Amira-zahran/blob/output/github-contribution-grid-snake.svg" alt="Snake"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-hanees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-hanees" height="30" width="40" /></a>
